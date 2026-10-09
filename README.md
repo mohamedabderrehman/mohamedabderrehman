@@ -4,7 +4,7 @@
 
 I build web and mobile applications around complete workflows: commerce and delivery, file sharing, client collaboration, education and search. My work includes Arabic RTL interfaces, TypeScript APIs, PHP portals and relational databases.
 
-[Portfolio and detailed case studies](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/) · [العربية](README.ar.md)
+[Portfolio and detailed case studies](https://mohamedabderrehmane.netlify.app/) · [العربية](README.ar.md)
 
 ## Selected work
 
