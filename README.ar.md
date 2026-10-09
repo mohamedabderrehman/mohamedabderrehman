@@ -4,7 +4,7 @@
 
 أبني تطبيقات لمسارات عمل متكاملة في التجارة والتوصيل ومشاركة الملفات والتعاون مع العملاء والتعليم والبحث، مع واجهات عربية RTL وخوادم TypeScript وبوابات PHP وقواعد علائقية.
 
-[المعرض ودراسات المشاريع](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/) · [English](README.md)
+[المعرض ودراسات المشاريع](https://mohamedabderrehmane.netlify.app/ar/) · [English](README.md)
 
 ## أعمال مختارة
 
